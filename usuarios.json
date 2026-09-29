@@ -1,14 +1,4 @@
 [
-  {
-    "usuario": "markbn15",
-    "activo": true
-  },
-  {
-    "usuario": "juanito_2026",
-    "activo": true
-  },
-  {
-    "usuario": "cliente_demo",
-    "activo": false
-  }
+  {"usuario": "markbn15", "activo": true},
+  {"usuario": "nuevo_cliente", "activo": true}
 ]
